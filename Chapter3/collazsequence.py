@@ -6,14 +6,12 @@ def collats(number):
     else:
         print(3*number+1)
         return(3*number+1)
-while(True):
+n=int(input("enter no"))
+x=collats(n)
+while(x!=1):
     try:
-        while(True):
-            n=int(input("enter no"))
-            x=collats(n)
-            if(x==1):
-                sys.exit()      
+        x=collats(x)   
     except ValueError:
         print("enter an integer")
         continue
-    
+

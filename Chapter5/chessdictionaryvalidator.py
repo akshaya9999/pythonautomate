@@ -1,3 +1,4 @@
+from builtins import int
 import sys
 cd={}
 kl=[]

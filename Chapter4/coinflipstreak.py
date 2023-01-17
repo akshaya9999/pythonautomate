@@ -2,7 +2,7 @@ import random
 numberOfStreaks = 0
 ht=[]
 n=0
-for experimentNumber in range(10):
+for experimentNumber in range(10000):
     for i in range(100):
         s=random.randint(0,1)
         if(s==0):

@@ -20,20 +20,23 @@ class MyZombie:
         #            ('green', 'shotgun')]}
 
         # REPLACE THIS ZOMBIE CODE WITH YOUR OWN:
-        brains = 0
-        while diceRollResults is not None:
-            brains += diceRollResults['brains']
+        shotguns = 0
+        for i in range (3):
+            while diceRollResults is not None:
+                shotguns += diceRollResults['shotguns']
 
-            if brains < 2:
-                diceRollResults = zombiedice.roll() # roll again
-            else:
-                break
+                if shotguns>=2:
+                    break
+                else:
+                    diceRollResults = zombiedice.roll() # roll again
+                
+
 
 zombies = (
     zombiedice.examples.RandomCoinFlipZombie(name='Random'),
     zombiedice.examples.RollsUntilInTheLeadZombie(name='Until Leading'),
-    zombiedice.examples.MinNumShotgunsThenStopsZombie(name='Stop at 2 Shotguns', minShotguns=2),
-    zombiedice.examples.MinNumShotgunsThenStopsZombie(name='Stop at 1 Shotgun', minShotguns=1),
+    zombiedice.examples.MinNumShotgunsThenStopsZombie(name='Stop at 2Shotguns', minShotguns=2),
+    zombiedice.examples.MinNumShotgunsThenStopsZombie(name='Stop at 1Shotgun', minShotguns=1),
     MyZombie(name='My Zombie Bot'),
     # Add any other zombie players here.
 )

@@ -1,7 +1,7 @@
 # automate the boring stuff
 # AKSHAYA KRISHNAN
 **I am Akshaya Krishnan from Alappuzha,Kerala.I am a first year CSE-AI student here at Amritapuri campus.**
-| chapter  | Status |
+| Chapter  | Status |
 | ------------- | ------------- |
 | Chapter 1  | Completed  |
 | Chapter 2  | Completed  |

@@ -11,7 +11,7 @@
 | [Chapter 6](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter6)  | Completed  |
 | [Chapter 7](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter7)  | Completed  |
 | [Chapter 8](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter8)  | Completed  |
-| [Chapter 9](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter9)  | Done 1qn  |
+| [Chapter 9](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter9)  | Completed  |
 | Chapter 10  | Not attempted  |
 | [Chapter 11](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter11)  | Completed  |
 | Chapter 12  | Not attempted  |

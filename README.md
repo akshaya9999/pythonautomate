@@ -9,7 +9,7 @@
 | [Chapter 4](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter4)  | Completed  |
 | [Chapter 5](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter5)  | Completed  |
 | [Chapter 6](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter6)  | Completed  |
-| [Chapter 7](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter7)  | Completed  |
+| [Chapter 7](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter7)  | 1 qn pending  |
 | [Chapter 8](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter8)  | Completed  |
 | [Chapter 9](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter9)  | Completed  |
 | Chapter 10  | Not attempted  |

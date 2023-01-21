@@ -6,12 +6,12 @@
 | Chapter 1  | Completed  |
 | Chapter 2  | Completed  |
 | [Chapter 3](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter3)  | Completed  |
-| Chapter 4  | Completed  |
-| Chapter 5  | Completed  |
-| Chapter 6  | Completed  |
-| Chapter 7  | Completed  |
-| Chapter 8  | Completed  |
-| Chapter 9  | Done 1qn  |
+| [Chapter 4](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter4)  | Completed  |
+| [Chapter 5](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter5)  | Completed  |
+| [Chapter 6](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter6)  | Completed  |
+| [Chapter 7](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter7)  | Completed  |
+| [Chapter 8](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter8)  | Completed  |
+| [Chapter 9](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter9)  | Done 1qn  |
 | Chapter 10  | Not attempted  |
-| Chapter 11  | Completed  |
+| [Chapter 11](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter11)  | Completed  |
 | Chapter 12  | Not attempted  |

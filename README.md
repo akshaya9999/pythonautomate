@@ -12,6 +12,6 @@
 | [Chapter 7](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter7)  | 1 qn pending  |
 | [Chapter 8](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter8)  | Completed  |
 | [Chapter 9](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter9)  | Completed  |
-| Chapter 10  | Not attempted  |
+| [Chapter 10](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter10)  | 1 qn remaining  |
 | [Chapter 11](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter11)  | Completed  |
 | Chapter 12  | Not attempted  |

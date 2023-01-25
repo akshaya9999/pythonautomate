@@ -10,7 +10,7 @@ for foldername,subfolders,filenames in os.walk(p):
         if y not in l:
             l.append(y[])
 
-
+#see ch 15
 l.sort()
 print(l)
 # for i in range(1,len(l)+1):

@@ -2180,3 +2180,521 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
 console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1674676307561	geckodriver	INFO	Listening on 127.0.0.1:59295
+1674676308558	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiledZTNOc"
+Gtk-Message: 01:21:48.597: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674676309318	Marionette	INFO	Marionette enabled
+1674676309321	Marionette	INFO	Listening on port 32779
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 32779
+1674676309565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledZTNOc/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 3860 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 6578 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.elz6uLyPaJ4.es5.O/am=BqjcG_xfwiMAACJCIvfbgT8TDpaAEw5ggE4CEE4AZDZSreq9CSXp-4gEAEAAOt-KYRyAIGzNY6BjeUKYMwBgAgAAAAAAAAAAAAAAAAAAAK5QfhA/d=1/im=1/dg=0/br=1/wt=1/rs=AHGWq9BqlNdTagCsbNCHMmEgQBpZRE2lbA/cb=loaded_0/m=b, line 587: uncaught exception: CustomError: Error in protected function: VR
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.elz6uLyPaJ4.es5.O/am=BqjcG_xfwiMAACJCIvfbgT8TDpaAEw5ggE4CEE4AZDZSreq9CSXp-4gEAEAAOt-KYRyAIGzNY6BjeUKYMwBgAgAAAAAAAAAAAAAAAAAAAK5QfhA/d=1/im=1/dg=0/br=1/wt=1/rs=AHGWq9BqlNdTagCsbNCHMmEgQBpZRE2lbA/cb=loaded_0/m=b, line 587: uncaught exception: CustomError: Error in protected function: VR
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.elz6uLyPaJ4.es5.O/am=BqjcG_xfwiMAACJCIvfbgT8TDpaAEw5ggE4CEE4AZDZSreq9CSXp-4gEAEAAOt-KYRyAIGzNY6BjeUKYMwBgAgAAAAAAAAAAAAAAAAAAAK5QfhA/d=1/im=1/dg=0/br=1/wt=1/rs=AHGWq9BqlNdTagCsbNCHMmEgQBpZRE2lbA/cb=loaded_0/m=b, line 587: uncaught exception: CustomError: Error in protected function: VR
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.elz6uLyPaJ4.es5.O/am=BqjcG_xfwiMAACJCIvfbgT8TDpaAEw5ggE4CEE4AZDZSreq9CSXp-4gEAEAAOt-KYRyAIGzNY6BjeUKYMwBgAgAAAAAAAAAAAAAAAAAAAK5QfhA/d=1/im=1/dg=0/br=1/wt=1/rs=AHGWq9BqlNdTagCsbNCHMmEgQBpZRE2lbA/cb=loaded_0/m=b, line 587: uncaught exception: CustomError: Error in protected function: VR
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.elz6uLyPaJ4.es5.O/am=BqjcG_xfwiMAACJCIvfbgT8TDpaAEw5ggE4CEE4AZDZSreq9CSXp-4gEAEAAOt-KYRyAIGzNY6BjeUKYMwBgAgAAAAAAAAAAAAAAAAAAAK5QfhA/d=1/im=1/dg=0/br=1/wt=1/rs=AHGWq9BqlNdTagCsbNCHMmEgQBpZRE2lbA/cb=loaded_0/m=b, line 587: uncaught exception: CustomError: Error in protected function: VR
+1674676444077	geckodriver	INFO	Listening on 127.0.0.1:44883
+1674676444430	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileZW5TE8"
+Gtk-Message: 01:24:04.452: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674676444973	Marionette	INFO	Marionette enabled
+1674676444975	Marionette	INFO	Listening on port 36187
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 36187
+1674676445086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZW5TE8/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://www.google.com/js/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 1028 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674678056379	geckodriver	INFO	Listening on 127.0.0.1:33477
+1674678057613	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilemC02IT"
+Gtk-Message: 01:50:57.683: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674678058864	Marionette	INFO	Marionette enabled
+1674678058868	Marionette	INFO	Listening on port 37049
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 37049
+1674678059022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemC02IT/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 4106 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 5258 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 448 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1674678159262	Marionette	INFO	Stopped listening on port 45315
+1674678161102	Marionette	INFO	Stopped listening on port 37049
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1674678162766	Marionette	INFO	Stopped listening on port 43599
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1674678164469	Marionette	INFO	Stopped listening on port 37637
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1674678166014	Marionette	INFO	Stopped listening on port 32779
+1674678168138	Marionette	INFO	Stopped listening on port 36187
+1674743953616	geckodriver	INFO	Listening on 127.0.0.1:55567
+1674743954532	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilep2PGG7"
+Gtk-Message: 20:09:14.574: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674743955217	Marionette	INFO	Marionette enabled
+1674743955219	Marionette	INFO	Listening on port 45871
+Read port: 45871
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674743955341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilep2PGG7/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 811 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1674744023355	geckodriver	INFO	Listening on 127.0.0.1:47553
+1674744024339	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNtVB0l"
+Gtk-Message: 20:10:24.355: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674744024779	Marionette	INFO	Marionette enabled
+1674744024782	Marionette	INFO	Listening on port 45111
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 45111
+1674744024904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNtVB0l/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 230))
+1674744086267	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674744206339	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674744209993	Marionette	INFO	Stopped listening on port 45111
+1674744217053	geckodriver	INFO	Listening on 127.0.0.1:37005
+1674744218040	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile6AC1OK"
+Gtk-Message: 20:13:38.058: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674744218520	Marionette	INFO	Marionette enabled
+1674744218523	Marionette	INFO	Listening on port 37927
+Read port: 37927
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674744218634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6AC1OK/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 4113 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674744257246	geckodriver	INFO	Listening on 127.0.0.1:55539
+1674744258227	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilemj2zDi"
+Gtk-Message: 20:14:18.243: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674744258682	Marionette	INFO	Marionette enabled
+1674744258684	Marionette	INFO	Listening on port 37045
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 37045
+1674744258816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemj2zDi/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 3835 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 6722 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1674744319314	Marionette	INFO	Stopped listening on port 37927
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1674744321841	Marionette	INFO	Stopped listening on port 37045
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1674744331844	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 7164 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 5704 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674744549624	Marionette	INFO	Stopped listening on port 45871
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1674744555569	geckodriver	INFO	Listening on 127.0.0.1:59223
+1674744556372	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilex3X0h7"
+Gtk-Message: 20:19:16.386: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674744556817	Marionette	INFO	Marionette enabled
+1674744556820	Marionette	INFO	Listening on port 38011
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 38011
+1674744557028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilex3X0h7/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 6738 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 4478 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 2155 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674744735451	geckodriver	INFO	Listening on 127.0.0.1:35557
+1674744736412	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileW2bp4p"
+Gtk-Message: 20:22:16.427: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674744736848	Marionette	INFO	Marionette enabled
+1674744736850	Marionette	INFO	Listening on port 33357
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 33357
+1674744737037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW2bp4p/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 230))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1674744861999	geckodriver	INFO	Listening on 127.0.0.1:46409
+1674744862980	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileRBczbq"
+Gtk-Message: 20:24:22.996: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674744863441	Marionette	INFO	Marionette enabled
+1674744863444	Marionette	INFO	Listening on port 45737
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 45737
+1674744863560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRBczbq/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 180 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 4271 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 7521 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674744964979	Marionette	INFO	Stopped listening on port 38011
+1674744969037	Marionette	INFO	Stopped listening on port 45737
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+1674838820009	geckodriver	INFO	Listening on 127.0.0.1:54065
+1674838820729	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileecNucN"
+Gtk-Message: 22:30:20.757: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674838821648	Marionette	INFO	Marionette enabled
+1674838821651	Marionette	INFO	Listening on port 43763
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 43763
+1674838821830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileecNucN/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1674838834828	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 230))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 230))
+JavaScript warning: https://api.fouanalytics.com/s/pp.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://play2048.co/detroitchicago/cmbdv2.js?gcb=195-5&cb=03-8y0c-6y18-5y5e-22&cmbcb=121&sj=x03x0cx18x5e, line 1: ReferenceError: ez_attachEvent is not defined
+1674839069550	geckodriver	INFO	Listening on 127.0.0.1:58169
+1674839070415	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile417DXR"
+Gtk-Message: 22:34:30.439: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674839070892	Marionette	INFO	Marionette enabled
+1674839070894	Marionette	INFO	Listening on port 37391
+Read port: 37391
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674839071005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile417DXR/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1674839079419	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.js", 334))
+JavaScript error: https://play2048.co/detroitchicago/cmbdv2.js?gcb=195-5&cb=03-8y0c-6y18-5y5e-22&cmbcb=121&sj=x03x0cx18x5e&abt=LargeAdOptimization, line 1: ReferenceError: ez_attachEvent is not defined
+1674839196434	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674839197227	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674839201233	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674839202257	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674839206250	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674839206250	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674839227224	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674839231661	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1674839235783	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674839238228	Marionette	INFO	Stopped listening on port 43763
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1674839242229	Marionette	INFO	Stopped listening on port 37391
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1674839246733	geckodriver	INFO	Listening on 127.0.0.1:57337
+1674839247471	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVapS4O"
+Gtk-Message: 22:37:27.489: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674839247966	Marionette	INFO	Marionette enabled
+1674839247968	Marionette	INFO	Listening on port 45209
+Read port: 45209
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674839248083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVapS4O/search.json.mozlz4", (void 0)))
+1674839255029	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://api.fouanalytics.com/s/pp.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 1306 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674839281745	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 4746 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 4237 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 6572 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5896 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674839300002	geckodriver	INFO	Listening on 127.0.0.1:52387
+1674839300817	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilexr9SRk"
+Gtk-Message: 22:38:20.840: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674839301410	Marionette	INFO	Marionette enabled
+1674839301414	Marionette	INFO	Listening on port 35247
+Read port: 35247
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674839301564	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexr9SRk/search.json.mozlz4", (void 0)))
+JavaScript warning: https://api.fouanalytics.com/s/pp.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674839320903	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 2304 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 6863 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 4715 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 7426 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674839338320	Marionette	INFO	Stopped listening on port 35247
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674839350821	geckodriver	INFO	Listening on 127.0.0.1:47901
+1674839351311	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileBkCfLc"
+Gtk-Message: 22:39:11.328: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674839351895	Marionette	INFO	Marionette enabled
+1674839351898	Marionette	INFO	Listening on port 37131
+Read port: 37131
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674839352054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBkCfLc/search.json.mozlz4", (void 0)))
+1674839359401	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://api.fouanalytics.com/s/pp.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 4388 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5569 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5403 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5003 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 4676 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 1525 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 3360 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 3837 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 2174 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674839430325	Marionette	INFO	Stopped listening on port 37131
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 7710 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://play2048.co/porpoiseant/fads.js?gcb=195-5&cb=6, line 1: TypeError: window.__ez.fads is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674839450151	Marionette	INFO	Stopped listening on port 45209
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1674839490412	geckodriver	INFO	Listening on 127.0.0.1:51305
+1674839491065	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileii90h1"
+Gtk-Message: 22:41:31.086: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674839491567	Marionette	INFO	Marionette enabled
+1674839491570	Marionette	INFO	Listening on port 44323
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 44323
+1674839491802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileii90h1/search.json.mozlz4", (void 0)))
+1674839494086	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://api.fouanalytics.com/s/pp.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674839513268	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674839520687	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 1358 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 3024 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 1521 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 3961 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674839542059	Marionette	INFO	Stopped listening on port 44323
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1674840453860	geckodriver	INFO	Listening on 127.0.0.1:47779
+1674840454843	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileelN6n4"
+Gtk-Message: 22:57:34.860: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674840455306	Marionette	INFO	Marionette enabled
+1674840455309	Marionette	INFO	Listening on port 46225
+Read port: 46225
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674840455432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileelN6n4/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 7061 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 4888 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 6018 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674840542725	geckodriver	INFO	Listening on 127.0.0.1:60281
+1674840543703	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileT7ANWD"
+Gtk-Message: 22:59:03.721: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674840544163	Marionette	INFO	Marionette enabled
+1674840544165	Marionette	INFO	Listening on port 44489
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 44489
+1674840544291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT7ANWD/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 4680 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1674840587388	geckodriver	INFO	Listening on 127.0.0.1:45813
+1674840588291	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileWeznUc"
+Gtk-Message: 22:59:48.310: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674840588798	Marionette	INFO	Marionette enabled
+1674840588801	Marionette	INFO	Listening on port 40715
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 40715
+1674840588934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWeznUc/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 1177 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 1772 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 6837 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674840733252	geckodriver	INFO	Listening on 127.0.0.1:33485
+1674840733859	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile8OpUlh"
+Gtk-Message: 23:02:13.888: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674840734427	Marionette	INFO	Marionette enabled
+1674840734430	Marionette	INFO	Listening on port 38995
+Read port: 38995
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674840734528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8OpUlh/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 1328 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 5891 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 741 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674840973702	geckodriver	INFO	Listening on 127.0.0.1:47793
+1674840973932	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileiCzhdc"
+Gtk-Message: 23:06:13.953: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674840974472	Marionette	INFO	Marionette enabled
+1674840974474	Marionette	INFO	Listening on port 42887
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 42887
+1674840974632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiCzhdc/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 378 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 6953 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 1644 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674841129177	geckodriver	INFO	Listening on 127.0.0.1:41067
+1674841129577	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileRBxKg7"
+Gtk-Message: 23:08:49.596: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674841130206	Marionette	INFO	Marionette enabled
+1674841130209	Marionette	INFO	Listening on port 43623
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 43623
+1674841130349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRBxKg7/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 5324 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 2222 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 3116 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674841210669	Marionette	INFO	Stopped listening on port 43623
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1674841213480	Marionette	INFO	Stopped listening on port 42887
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1674841216383	Marionette	INFO	Stopped listening on port 38995
+1674841219287	Marionette	INFO	Stopped listening on port 40715
+1674841221507	Marionette	INFO	Stopped listening on port 44489
+1674841226907	Marionette	INFO	Stopped listening on port 46225
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1674841937561	geckodriver	INFO	Listening on 127.0.0.1:36417
+1674841938475	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilesCuwu7"
+Gtk-Message: 23:22:18.497: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674841939015	Marionette	INFO	Marionette enabled
+1674841939017	Marionette	INFO	Listening on port 38253
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 38253
+1674841939137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesCuwu7/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 6089 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S2013299222%3A1674659831118234&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHceKjdE1TuQGz7YkolGG8Q52jPrwfPVvCSJvzkTCfvltzX-gcvBFIRqbrHkjkuG-bL1IHad line 323 > injectedScript line 2 > eval line 7514 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 3430 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.elz6uLyPaJ4.es5.O/am=BqjcG_xfwiMAACJCIvfbgT8TDpaAEw5ggE4CEE4AZDZSreq9CSXp-4gEAEAAOt-KYRyAIGzNY6BjeUKYMwBgAgAAAAAAAAAAAAAAAAAAAK5QfhA/d=1/im=1/dg=0/br=1/wt=1/rs=AHGWq9BqlNdTagCsbNCHMmEgQBpZRE2lbA/cb=loaded_0/m=b, line 587: uncaught exception: CustomError: Error in protected function: Node.compareDocumentPosition: Argument 1 does not implement interface Node.
+1674842202255	Marionette	INFO	Stopped listening on port 38253
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo

@@ -10,7 +10,7 @@ for excelFile in os.listdir('.'):
     # Loop through every sheet in the workbook.
     for sheetName in wb.get_sheet_names():
         sheet = wb.get_sheet_by_name(sheetName)
-        csvFile=open(excelFile[:-5]+'_'+sheetName+'.csv','w')
+        csvFile=open(excelFile[:-5]+'_'+sheetName+'.csv','w',newline='')
         csvwriter=csv.writer(csvFile)
 
         # Create the CSV filename from the Excel filename and sheet title.

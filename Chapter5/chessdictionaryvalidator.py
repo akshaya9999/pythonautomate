@@ -1,24 +1,31 @@
 from builtins import int
 import sys
+
+
 cd={}
 kl=[]
-count={}
+actualcount={'wking':1,'wqueen':1,'wrook':2,'wbishop':2,'wknight':2,'wpawn':8,'bking':1,'bqueen':1,'brook':2,'bbishop':2,'bknight':2,'bpawn':8}
+finalcount={}
 def isValidChessBoard(cd):
     kk=cd.keys()
-    for i in range(97,105):   #to create the spaces in the board
+    for i in range(97,105): #to create the spaces in the board
         for j in range(1,9):
             kl.append(chr(i)+str(j))
-    x=cd.keys()           #to check if its a valid key
-    
-    if(all(x in kl for x in cd)):     
-        for x in cd.values():     #counting no of pieces and putting it in a new dict
-            count.setdefault(x, 0)
-            count[x]=count[x]+1
-            print(count)   #error in condition have to find a way to give or and and the right way
-        if(count['wking']<=1 and count['wqueen']<=1 and count['wrook']<=2 and count['wbishop']<=2 and count['wknight']<=2 and count['wpawn']<=8 or count['bwking']<=1 and count['bqueen']<=1 and count['brook']<=2 and count['bbishop']<=2 and count['bknight']<=2 and count['bpawn']<=8):
-            print(True)
-        else:
-            print(False)
+
+    # print(kl)
+    x=cd.keys() #to check if its a valid key
+    if(all(x in kl for x in cd)): 
+        y1=1
+        # print(cd)
+        for x in cd.values(): #counting no of pieces and putting it in a new dict
+            finalcount.setdefault(x, 0)
+            finalcount[x]=finalcount[x]+1
+            # print(finalcount)
+            for l in finalcount.keys():
+                if finalcount[l]<=actualcount[l]:
+                    print("is valid")
+                else:
+                    print("is not valid")
     else:
         print("board has an invalid space")
         sys.exit()
@@ -28,8 +35,8 @@ while True:
     if e==1:
         k,v=input("enter space and piece name with spaces").split()
         cd[k]=v
-    elif(e==2):
+    elif e==2:
         isValidChessBoard(cd)
     elif e==3:
         break
-isValidChessBoard(cd)
+# isValidChessBoard(cd)

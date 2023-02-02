@@ -22,8 +22,9 @@ for questionNumber in range(1, (number_Questions + 1)):
             continue
 
         if answer==str((num1*num2)):
+            c+=1
             print('correct')
-            c=+1
+            
             time.sleep(1)
             break
         else:

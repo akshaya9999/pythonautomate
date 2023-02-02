@@ -1,6 +1,8 @@
 #! python3
 # downloadXkcd.py - Downloads every single XKCD comic.
 import requests, os, bs4
+from pathlib import Path
+
 url = 'https://xkcd.com'               # starting url
 os.makedirs('xkcd', exist_ok=True)    # store comics in ./xkcd
 while not url.endswith('#'):
@@ -14,14 +16,16 @@ while not url.endswith('#'):
         print('Could not find comic image.')
     else:
         comicUrl = 'https:' + comicElem[0].get('src')
+        xkcd=Path('xkcd')
+        if not os.path.basename(comicUrl) in os.listdir(xkcd):
         # Download the image.
-        print('Downloading image %s...' % (comicUrl))
-        res = requests.get(comicUrl)
-        res.raise_for_status()
-        imageFile = open(os.path.join('xkcd', os.path.basename(comicUrl)),'wb')
-        for chunk in res.iter_content(100000):
-            imageFile.write(chunk)
-        imageFile.close()
+            print('Downloading image %s...' % (comicUrl))
+            res = requests.get(comicUrl)
+            res.raise_for_status()
+            imageFile = open(os.path.join('xkcd', os.path.basename(comicUrl)),'wb')
+            for chunk in res.iter_content(100000):
+                imageFile.write(chunk)
+            imageFile.close()
 
     # Get the Prev button's url.
     prevLink = soup.select('a[rel="prev"]')[0]

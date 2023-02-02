@@ -20,3 +20,6 @@
 | [Chapter 15](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter15) | Completed |
 | [Chapter 16](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter16)  | Completed |
 | [Chapter 17](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter17)  | 1 qn remaining
+| [Chapter 18](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter18)  | 1 qn remaining |
+| [Chapter 19](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter19)  | Completed |
+| [Chapter 20](https://github.com/akshaya9999/pythonautomate/tree/main/Chapter20)  | Completed 1 qn |

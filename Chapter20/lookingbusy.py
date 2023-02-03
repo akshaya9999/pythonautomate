@@ -9,3 +9,4 @@ while True:
     except KeyboardInterrupt:
         break
         
+# print(pyautogui.position())
